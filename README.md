@@ -40,3 +40,4 @@ Tips
 # AndroidBasicsInKotlin-AmphibiansApp
 # melikegoren-AndroidBasicsInKotlin-AmphibiansApp
 # AndroidBasicsInKotlin-AmphibiansApp
+# AndroidBasicsInKotlin-AmphibiansApp
