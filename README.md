@@ -39,3 +39,4 @@ Tips
 - DO NOT ALTER THE PROVIDED TESTS
 # AndroidBasicsInKotlin-AmphibiansApp
 # melikegoren-AndroidBasicsInKotlin-AmphibiansApp
+# AndroidBasicsInKotlin-AmphibiansApp
