@@ -23,6 +23,8 @@ import androidx.navigation.ui.NavigationUI.setupActionBarWithNavController
 
 class MainActivity : AppCompatActivity() {
 
+    //melike3
+
     private lateinit var navController: NavController
 
     override fun onCreate(savedInstanceState: Bundle?) {
