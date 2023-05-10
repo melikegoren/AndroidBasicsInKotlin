@@ -39,4 +39,5 @@ class MainActivity : AppCompatActivity() {
         return navController.navigateUp() || super.onSupportNavigateUp()
     }
     //my name is melike
+    //second comment
 }
